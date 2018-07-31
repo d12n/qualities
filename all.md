@@ -2,12 +2,18 @@
 
 # Adaptability
 
-Auditability
-Availability
-Backup
-Capacity
-Certification
-Cost
+# Auditability
+
+# Availability
+
+# Backup
+
+# Capacity
+
+# Certification
+
+# Cost
+
 Compliance
 Confidentiality
 Configuration management
@@ -44,9 +50,9 @@ Portability
 Quality
 Readability
 Reliability
-Reporting
+# Reporting
 Resilience
-Resource constraints
+# Resource constraints
 Response time
 Reusability
 Robustness
