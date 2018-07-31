@@ -39,25 +39,25 @@
 [link](https://d12n.github.io/qualities/all#confidentiality)
 
 ## Configuration management
-[link](https://d12n.github.io/qualities/all#configuration_management)
+[link](https://d12n.github.io/qualities/all#configuration-management)
 
 ## Data integrity
-[link](https://d12n.github.io/qualities/all#data_integrity)
+[link](https://d12n.github.io/qualities/all#data-integrity)
 
 ## Data retention
-[link](https://d12n.github.io/qualities/all#data_retention)
+[link](https://d12n.github.io/qualities/all#data-retention)
 
 ## Dependency on other parties
-[link](https://d12n.github.io/qualities/all#dependency_on_other_parties)
+[link](https://d12n.github.io/qualities/all#dependency-on-other-parties)
 
 ## Deployment
 [link](https://d12n.github.io/qualities/all#deployment)
 
 ## Development environment
-[link](https://d12n.github.io/qualities/all#development_environment)
+[link](https://d12n.github.io/qualities/all#development-environment)
 
 ## Disaster recovery
-[link](https://d12n.github.io/qualities/all#disaster_recovery)
+[link](https://d12n.github.io/qualities/all#disaster-recovery)
 
 ## Documentation
 [link](https://d12n.github.io/qualities/all#documentation)
@@ -72,10 +72,10 @@
 [link](https://d12n.github.io/qualities/all#effectiveness)
 
 ## Emotional factors
-[link](https://d12n.github.io/qualities/all#emotional_factors)
+[link](https://d12n.github.io/qualities/all#emotional-factors)
 
 ## Environmental protection
-[link](https://d12n.github.io/qualities/all#environmental_protection)
+[link](https://d12n.github.io/qualities/all#environmental-protection)
 
 ## Escrow
 [link](https://d12n.github.io/qualities/all#escrow)
@@ -87,13 +87,13 @@
 [link](https://d12n.github.io/qualities/all#extensibility)
 
 ## Failure management
-[link](https://d12n.github.io/qualities/all#failure_management)
+[link](https://d12n.github.io/qualities/all#failure-management)
 
 ## Fault tolerance
-[link](https://d12n.github.io/qualities/all#fault_tolerance)
+[link](https://d12n.github.io/qualities/all#fault-tolerance)
 
 ## Legal and licensing issues or patent-infringement-avoidability
-[link](https://d12n.github.io/qualities/all#legal_and_licensing_issues_or_patent-infringement-avoidability)
+[link](https://d12n.github.io/qualities/all#legal-and-licensing-issues-or-patent-infringement-avoidability)
 
 ## Interoperability
 [link](https://d12n.github.io/qualities/all#interoperability)
@@ -111,10 +111,10 @@
 [link](https://d12n.github.io/qualities/all#modifiability)
 
 ## Network topology
-[link](https://d12n.github.io/qualities/all#network_topology)
+[link](https://d12n.github.io/qualities/all#network-topology)
 
 ## Open source
-[link](https://d12n.github.io/qualities/all#open_source)
+[link](https://d12n.github.io/qualities/all#open-source)
 
 ## Operability
 [link](https://d12n.github.io/qualities/all#operability)
@@ -123,7 +123,7 @@
 [link](https://d12n.github.io/qualities/all#performance)
 
 ## Platform compatibility
-[link](https://d12n.github.io/qualities/all#platform_compatibility)
+[link](https://d12n.github.io/qualities/all#platform-compatibility)
 
 ## Privacy
 [link](https://d12n.github.io/qualities/all#privacy)
@@ -147,10 +147,10 @@
 [link](https://d12n.github.io/qualities/all#resilience)
 
 ## Resource constraints
-[link](https://d12n.github.io/qualities/all#resource_constraints)
+[link](https://d12n.github.io/qualities/all#resource-constraints)
 
 ## Response time
-[link](https://d12n.github.io/qualities/all#response_time)
+[link](https://d12n.github.io/qualities/all#response-time)
 
 ## Reusability
 [link](https://d12n.github.io/qualities/all#reusability)
@@ -159,7 +159,7 @@
 [link](https://d12n.github.io/qualities/all#robustness)
 
 ## Safety or Factor of safety
-[link](https://d12n.github.io/qualities/all#safety_or_factor_of_safety)
+[link](https://d12n.github.io/qualities/all#safety-or-factor-of-safety)
 
 ## Scalability
 [link](https://d12n.github.io/qualities/all#scalability)
@@ -168,7 +168,7 @@
 [link](https://d12n.github.io/qualities/all#security)
 
 ## Software, tools, standards etc. Compatibility
-[link](https://d12n.github.io/qualities/all#software,_tools,_standards_etc._compatibility)
+[link](https://d12n.github.io/qualities/all#software-tools-standards-etc-compatibility)
 
 ## Stability
 [link](https://d12n.github.io/qualities/all#stability)
