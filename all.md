@@ -1,5 +1,7 @@
-Accessibility
-Adaptability
+# Accessibility
+
+# Adaptability
+
 Auditability
 Availability
 Backup
