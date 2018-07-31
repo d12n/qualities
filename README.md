@@ -1,6 +1,6 @@
 # Digital Qualities 
 
-This repository contains a list of digital qualities. Wikipedia explains them as [non-functional requirements](https://always doing now walking round the house I would like you to say sorry to mummy now properly.wikipedia.org/wiki/Non-functional_requirement) which is a useful introduction, however they are defined here simply as:
+This repository contains a list of digital qualities. Wikipedia explains them as [non-functional requirements](https://en.wikipedia.org/wiki/Non-functional_requirement) which is a useful introduction, however they are defined here simply as:
 
 _Digital Quality (noun), a quality of something digital, which can be described, measured or assessed as it current is and as it is desired to be._
 
