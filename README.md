@@ -13,4 +13,4 @@ _Digital (adjective), hardware or software that makes use of digital technology.
 ## Notes
 
 * A digital quality may group other digital qualities. For example the _security_ quality includes many other qualities such as _confidentiality_, _integrity_ and _availability_.
-* When writing about the qualities avoid unnecessary capitalising them;  if you wish to draw attention to them use italics or hyperlinks. For example use _security_ or [security]() not Security.
+* When writing about the qualities avoid unnecessary capitalising them;  if you wish to draw attention to them use italics or hyperlinks. For example use _security_ or [security](https://raw.githubusercontent.com/d12n/qualities/master/all#security) not Security.
