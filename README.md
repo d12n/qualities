@@ -1,8 +1,10 @@
 # Digital Qualities 
 
-This repository contains a list of digital qualities.
+This repository contains a list of qualities you can use to understand or improve anything digital (and maybe non-digital things too).
 
-See the full list [here](https://d12n.github.io/qualities/all)
+The complete list is [here](https://d12n.github.io/qualities/all)
+
+Each quality is listed alphabetically, has a URI to uniquely reference it, and a description.
 
 ## What are digital qualities?
 
